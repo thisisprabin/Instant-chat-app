@@ -21,7 +21,7 @@
 <head>
     <meta charset="utf-8">
     
-    <title>Login to popUp</title>
+    <title>Login and start using</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet">
     <style type="text/css">
