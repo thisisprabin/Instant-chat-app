@@ -142,7 +142,7 @@ function checkUserName(){
 				if(data == 1){
                     document.getElementById("msg").innerHTML = "<p style='color:#F00;'>Username is taken !</p>";
 				} else {
-                    document.getElementById("msg").innerHTML = "<input type='radio' onclick='enableButton()'> Chose this username<p style='color:#0C6;'>"+userName+"</p>";
+                    document.getElementById("msg").innerHTML = "<input type='radio' onclick='enableButton()'> Choose this username<p style='color:#0C6;'>"+userName+"</p>";
 				}
             } 
         }
